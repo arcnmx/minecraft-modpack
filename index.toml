@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enigmaticgraves-common.toml"
+hash = "7dc50adcc0c0772ae2059c99ce4049f243bbbe26bc374c91ac27f6f928772add"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "5b10db490c2ce5208664bf1b97bddb3daac83e4a223a6cb92221be17361e216e"
+
+[[files]]
+file = "config/spawnbalanceutility/BiomeMobWeight.csv"
+hash = "2c5aaab032bbb6e04c7b588a3b9f37fa812ecfc569db5aeaee9f991a209fa7c1"
+
+[[files]]
+file = "config/vampiresneedumbrellas-common.toml"
+hash = "7ea6d0a649d042c650c63c6c0438032a30e94f2d62b8a29198d482d7d544f8b0"
+
+[[files]]
+file = "config/vampirism-common.toml"
+hash = "55c5a571ae65ef94242096faf91d316fd5cc5a66e5ec15236700958be5c46274"
+
+[[files]]
+file = "kubejs/server_scripts/Chests.js"
+hash = "c5b8338f00f84aeab70f453b64fc3b39f542afecaca3237546e91f721b661a2a"
+
+[[files]]
 file = "mods/ad-astra-extra.pw.toml"
 hash = "7edfce8b7a14c72f55c921c3cfb3a6ff8490db14139d72466038e68465da23c6"
 metafile = true
